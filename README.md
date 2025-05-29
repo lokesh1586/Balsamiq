@@ -8,7 +8,7 @@ navigation flow, and UI element placement for five essential screens.
 ## Requirements 
 A.Balsamiq Wireframes tool (desktop/web version) 
 B.Basic understanding of UI/UX design principles 
-C.Defined screen flow: 
+C.Defined screen flow:  
   1. Welcome/Splash Screen 
   2. Login/Signup Screen 
   3. Home/Dashboard Screen 
